@@ -1,0 +1,25 @@
+Started by upstream project "[8mha:////4Ev2IAk/BvzhYUc2xdCXNx1aUZnsEyo0mxmhmClLCtlUAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JP2S/NzkxJLMvOKSxJwcfQA6n3u3yAAAAA==[0mtomcatinstall" build number [8mha:////4K1NK5VRfJM1+NOYaAPwsiR9y26q0N6gaKchD+lE/KVxAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBhH9rPwk/ZL83OTEksy84pLEnBx9UwA6reaQyQAAAA==[0m5
+originally caused by:
+ Started by GitHub push by Amruthateco
+Running as SYSTEM
+Building remotely on [8mha:////4DT+aq9JZ/ZYwRLDgK4sVsGk1VjuT4uT4VovQeO0bkZ7AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQifcf01LwSANmlRSXEAAAA[0mAgent (slave) in workspace /home/slave/workspace/jobtwo
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/slave/workspace/jobtwo/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/Amruthateco/bash.git # timeout=10
+Fetching upstream changes from https://github.com/Amruthateco/bash.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/Amruthateco/bash.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision ecf2861f3c8cd9cecb6f041836317ebd473773c5 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ecf2861f3c8cd9cecb6f041836317ebd473773c5 # timeout=10
+Commit message: "Update palindrome.sh"
+ > git rev-list --no-walk ecf2861f3c8cd9cecb6f041836317ebd473773c5 # timeout=10
+[jobtwo] $ /bin/sh -xe /tmp/jenkins14382885193852545677.sh
++ sh palindrome.sh 2002
+2002
+it is a palindrome.. confirmed
+Finished: SUCCESS

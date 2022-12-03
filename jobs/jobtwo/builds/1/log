@@ -1,0 +1,28 @@
+Started by GitHub push by Amruthateco
+Running as SYSTEM
+Building remotely on [8mha:////4DT+aq9JZ/ZYwRLDgK4sVsGk1VjuT4uT4VovQeO0bkZ7AAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQifcf01LwSANmlRSXEAAAA[0mAgent (slave) in workspace /home/slave/workspace/jobtwo
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/Amruthateco/bash.git
+ > git init /home/slave/workspace/jobtwo # timeout=10
+Fetching upstream changes from https://github.com/Amruthateco/bash.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/Amruthateco/bash.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/Amruthateco/bash.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision ecf2861f3c8cd9cecb6f041836317ebd473773c5 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ecf2861f3c8cd9cecb6f041836317ebd473773c5 # timeout=10
+Commit message: "Update palindrome.sh"
+First time build. Skipping changelog.
+[jobtwo] $ /bin/sh -xe /tmp/jenkins11286571217617856031.sh
++ sh palindrome.sh
+Enter the word
+
+palindrome.sh: 12: [: Illegal number: 
+it is a palindrome.. confirmed
+Finished: SUCCESS

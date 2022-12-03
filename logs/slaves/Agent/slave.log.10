@@ -1,0 +1,8 @@
+SSHLauncher{host='172.31.37.193', port=22, credentialsId='c3667ee2-36e0-45e2-9a5b-a798ec18a4c4', jvmOptions='', javaPath='', prefixStartSlaveCmd='', suffixStartSlaveCmd='', launchTimeoutSeconds=60, maxNumRetries=10, retryWaitTime=15, sshHostKeyVerificationStrategy=hudson.plugins.sshslaves.verifiers.NonVerifyingKeyVerificationStrategy, tcpNoDelay=true, trackCredentials=true}
+[12/03/22 10:26:14] [SSH] Opening SSH connection to 172.31.37.193:22.
+[12/03/22 10:26:14] [SSH] WARNING: SSH Host Keys are not being verified. Man-in-the-middle attacks may be possible against this connection.
+ERROR: Failed to authenticate as ubuntu. Wrong password. (credentialId:c3667ee2-36e0-45e2-9a5b-a798ec18a4c4/method:password)
+[12/03/22 10:26:17] [SSH] Authentication failed.
+Authentication failed.
+[12/03/22 10:26:17] Launch failed - cleaning up connection
+[12/03/22 10:26:17] [SSH] Connection closed.

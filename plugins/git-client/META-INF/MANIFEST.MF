@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Hudson-Version: 2.346.3
+Plugin-Dependencies: configuration-as-code:1559.v38a_b_2e3b_6b_b_7;res
+ olution:=optional,apache-httpcomponents-client-4-api:4.5.13-138.v4e7d
+ 9a_7b_a_e61,credentials:1143.vb_e8b_b_ceee347,jsch:0.1.55.61.va_e9ee2
+ 6616e7,script-security:1189.vb_a_b_7c8fd5fde,ssh-credentials:305.v8f4
+ 381501156,structs:324.va_f5d6774f3a_d,trilead-api:1.67.vc3938a_35172f
+Implementation-Title: Jenkins Git client plugin
+Long-Name: Jenkins Git client plugin
+Implementation-Version: 3.13.0
+Group-Id: org.jenkins-ci.plugins
+Plugin-License-Name: The MIT License (MIT)
+Specification-Title: Jenkins Git client plugin
+Plugin-ScmUrl: https://github.com/jenkinsci/git-client-plugin
+Plugin-Version: 3.13.0
+Jenkins-Version: 2.346.3
+Url: https://github.com/jenkinsci/git-client-plugin/blob/master/README
+ .adoc
+Short-Name: git-client
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-Developers: Mark Waite:markewaite:mark.earl.waite@gmail.com,Rob
+ ert Sandell:rsandell:rsandell@cloudbees.com,M Ramon Leon:mramonleon:r
+ leon@cloudbees.com,Olivier Lamy:olamy:olamy@apache.org
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.6.0
+Specification-Version: 3.13
+

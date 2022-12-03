@@ -1,0 +1,24 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-12-02 18:29:44.708 UTC</timestamp>
+  <md5sum>06ac2315c8cdd9af8fbb5218ca5538b2</md5sum>
+  <fileName>Credential id=d288102f-ec2f-424a-88b9-459b51ec0f55 name=slavetwo/******</fileName>
+  <usages>
+    <entry>
+      <string>dectwo</string>
+      <ranges>17</ranges>
+    </entry>
+  </usages>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@1189.vf61b_a_5e2f62e">
+      <timestamp>1670005784707</timestamp>
+      <itemFullName>dectwo</itemFullName>
+      <timestamp0>1670005784707</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1189.vf61b_a_5e2f62e">
+      <timestamp>1670062813260</timestamp>
+      <nodeName>slavetwo</nodeName>
+      <timestamp0>1670028813887</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

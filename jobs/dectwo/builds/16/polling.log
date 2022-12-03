@@ -1,0 +1,14 @@
+Started on Dec 2, 2022, 6:27:26 PM
+Started by event from 140.82.115.121 ⇒ http://13.231.38.44:8080/github-webhook/ on Fri Dec 02 18:27:26 UTC 2022
+Using strategy: Default
+[poll] Last Built Revision: Revision b0060920bd4ebbc6f97755ad55629d8e4b485869 (refs/remotes/origin/master)
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git ls-remote -h -- https://github.com/Amruthateco/hello-world-war.git # timeout=10
+Found 1 remote heads on https://github.com/Amruthateco/hello-world-war.git
+[poll] Latest remote head revision on refs/heads/master is: f55ed8a600f36377cf1d4cc8d62e761bde93f7c6
+Done. Took 0.5 sec
+Changes found

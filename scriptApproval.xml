@@ -1,0 +1,16 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<scriptApproval plugin="script-security@1218.v39ca_7f7ed0a_c">
+  <approvedScriptHashes>
+    <string>SHA512:3625aa37c61ba4e733b4a12efdd2ae42915b06dbba0ba7b9e88a8281674b55f7d3e958c4887195e4650b32364564eb4c0e4835fe70e9921dc99dbbd7b1c62d24</string>
+    <string>SHA512:57d14526cf9c54ef94fce1098a8476ebec1cb47b24526328b713263e2dc8b96c391d26f3d6fc4f00739dc268e04dedf12a70b38ef189209bc9756309e5acfddf</string>
+    <string>SHA512:7b7b097cc7220e2b0b8e7668fd62b75384c9e72484b847ce7b2d48c525b1ee437826e64d63e77536d691342e955d9fb55673ecd9aaa239390bcb439d64e83964</string>
+    <string>SHA512:932c094ac77af7e130825f4a8d73bc9f91a32b6a2d41d427af8cd7e6b30724ed62e5a6bada2202f84db84635242f756bac1b231bb8635cfa1dee4840929d7f73</string>
+    <string>SHA512:979f672e8d0101d6c727737aa22837a187c223572c3af0d9aef5436485eb8116c10e53f56b473888303557f0f4ac45de2a6053719155a33166f0ab4553148475</string>
+  </approvedScriptHashes>
+  <approvedSignatures/>
+  <aclApprovedSignatures/>
+  <approvedClasspathEntries/>
+  <pendingScripts/>
+  <pendingSignatures/>
+  <pendingClasspathEntries/>
+</scriptApproval>

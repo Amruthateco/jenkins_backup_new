@@ -1,0 +1,18 @@
+commit 436c0b3b2548615c8e8b4a14601efafb85090536
+tree f40c5043c115a711efa8012af7b2aace652d0f45
+parent 7bf7b92c24ff50c57cac2c43a4c06704de1bb924
+author Amruthateco <115724939+Amruthateco@users.noreply.github.com> 2022-12-02 23:27:39 +0530
+committer GitHub <noreply@github.com> 2022-12-02 23:27:39 +0530
+
+    Create Jenkinsfile
+
+:000000 100644 0000000000000000000000000000000000000000 8ab635ea4281c999d73c9bd312b859801686beb9 A	Jenkinsfile
+commit 7bf7b92c24ff50c57cac2c43a4c06704de1bb924
+tree 423f3a20c4e0e1c28ba13a6c223dc8e114adf7a7
+parent d4fc238f5ecf614c85b8dd8811493fc1e37cfeae
+author Amruthateco <115724939+Amruthateco@users.noreply.github.com> 2022-12-02 23:16:59 +0530
+committer GitHub <noreply@github.com> 2022-12-02 23:16:59 +0530
+
+    Update pom.xml
+
+:100644 100644 85f2e2e2aedafe4afbaeb08b305c254b5247371d 5f2cea6d2e02a4f76c0db289e03b918d39ac8101 M	pom.xml
